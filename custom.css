@@ -1,0 +1,106 @@
+
+body {
+    padding-top: 8rem;
+    font-family: 'Open Sans', sans-serif;
+}
+nav ul li a {
+    color: #666!important;
+    font-size: 1.2rem;
+    text-align: right;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+nav ul li a:hover {
+    text-shadow: 1px 1px 5px #CCC;
+}
+.nav-link{
+    padding-left: 5rem!important;
+}
+#perfil {
+    background-color: #132226;
+    color: #FFF;
+    padding: 2rem 0 1rem;
+}
+h1 {
+    font-family: 'Kaushan Script';
+    padding-top: 3rem;
+    font-size: 4rem;
+    letter-spacing: 0.25rem;
+    font-weight: 700;
+}
+.float-right {
+    float: right!important;
+}
+.lead{
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: 'Segoe UI';
+}
+.icons a{
+    display: inline-block;
+}
+#destaques {
+    background-color: #ccd3db;
+}
+#principal {
+    background-color: #132226;
+    color: #FFF;
+    padding: 2rem 0 1rem;
+}
+h3{
+    font-size: 1.7rem;
+    color: #FFF;
+    font-style: italic;
+    padding: 3rem 0 0 0!important;
+    font-weight: bold;
+}
+.card-text{
+    text-transform: uppercase;
+	font-weight: 700;
+	font-size: 1.1rem;
+	color: #333;
+}
+article {
+    float: left;
+}
+article p {
+    color: #fff;
+    font-size: 1.2rem;
+    text-indent: 50px;
+    line-height: 1.8rem; 
+}
+aside {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+}
+details {
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    margin-bottom: 15px;
+}
+footer{
+    color: #fff;
+    background-color: #333;
+    font-size: 1rem;
+}
+
+
+.nome {
+    margin-left: 170px;
+    margin-top: 90px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.card-img-top,
+.item img {
+    width: 100%; 
+    height: 400px; 
+    object-fit: contain; 
+    background-color: #f8f9fa; 
+    border-radius: 8px; 
+}
+
+
